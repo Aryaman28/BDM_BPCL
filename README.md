@@ -22,6 +22,3 @@ Summaries posted up -
 9.	Acquisition, Sales and Purchase of shares
 
 Week-1, Assignment 1 (A)
-
-Document - https://github.com/Aryaman28/BDM_BPCL/blob/main/BDM_BPCL%20Detailed%20Document.pdf
-Work Sheet - 
