@@ -16,3 +16,5 @@ Summaries posted up -
 7.	Cost Components over last 5 years
 8.	Price Performance over last 5 years
 9.	Acquisition, Sales and Purchase of shares
+
+Week-1, Assignment 1 (A)
